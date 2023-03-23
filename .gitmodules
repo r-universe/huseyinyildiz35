@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ctgdist"]
+	path = ctgdist
+	url = https://github.com/cran/ctgdist
+	shallow = true
+	registered = true
+[submodule "DIFshiny"]
+	path = DIFshiny
+	url = https://github.com/cran/DIFshiny
+	shallow = true
+	registered = true
+[submodule "irtGUI"]
+	path = irtGUI
+	url = https://github.com/cran/irtGUI
+	shallow = true
+	registered = true
+[submodule "shinyIRT"]
+	path = shinyIRT
+	url = https://github.com/cran/shinyIRT
+	shallow = true
+	registered = true
