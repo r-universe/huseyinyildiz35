@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ctgdist"]
-	path = ctgdist
-	url = https://github.com/cran/ctgdist
 [submodule "DIFshiny"]
 	path = DIFshiny
 	url = https://github.com/cran/DIFshiny
+[submodule "ctgdist"]
+	path = ctgdist
+	url = https://github.com/cran/ctgdist
 [submodule "irtGUI"]
 	path = irtGUI
 	url = https://github.com/cran/irtGUI
